@@ -1,7 +1,7 @@
 # Face-reconition-using-python
-face recognition and detect 
+-This Programme detetcts and recognize face Automatically.
 
-this project is using open cv and some python library
+-This project is using open cv and few python libraries.
  # Requirements
- Basic Knowledge Of Machine Learning
- Advanced Level Of Python Programming
+ - Basic Knowledge Of Machine Learning
+ - Advanced Level Of Python Programming
