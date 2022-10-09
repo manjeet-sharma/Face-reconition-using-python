@@ -3,6 +3,6 @@
 -it also recognize face Automatically.
 
 -This project is using open cv and few python libraries.
- # Requirements
+ # Requirements:
  - Basic Knowledge Of Machine Learning.
  - Advanced Level Of Python Programming.
