@@ -5,5 +5,4 @@
 -This project is using open cv and few Python Libraries.
  # Requirements:-
  - Basic Knowledge Of Machine-Learning.
- - Advanced Level Of Python programming.
--main
+ - Advanced Level Of Python Programming.
