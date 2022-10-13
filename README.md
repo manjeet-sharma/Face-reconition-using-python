@@ -6,3 +6,5 @@
  # Requirements:-
  - Basic Knowledge Of Machine-Learning.
  - Advanced Level Of Python programming.
+ - Strong System.
+ - Must have knowledge of Jupyter Notebook 
